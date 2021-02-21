@@ -1,4 +1,4 @@
-# GC Cloud Guardrails for Public Sectors
+# Cloud Guardrails for Public Sectors
 
 This project will host the minimum guardrails as part of the Cloud Operationalization Framework.
 
