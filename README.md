@@ -1,10 +1,10 @@
-# Cloud Guardrails for Public Sectors
+# Cloud Guardrails for Public Sectors - A short summary
 
-This project will host the minimum guardrails as part of the Cloud Operationalization Framework.
+This is a summary note which outlines the minimum guardrails as part of the Cloud Operationalization Framework.
 
 ## Purpose
 
-The purpose of the guardrails is to ensure that our clients are implementing a preliminary baseline set of controls within their cloud-based environments. 
+The purpose of the guardrails is to ensure that our public sector clients are implementing a preliminary baseline set of controls within their cloud-based environments. 
 
 ## Summary - Initial stage
 
